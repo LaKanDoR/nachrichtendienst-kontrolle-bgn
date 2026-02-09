@@ -7,7 +7,7 @@
 > **Autor:** Jan Bludau  
 > **Stand:** 09.02.2026
 
-## 📄 Zusammenfassung (Executive Summary)
+## 📄 Zusammenfassung
 
 Dieses Repository beinhaltet das Whitepaper **"Transformation der Nachrichtendienstkontrolle - Vom Paradigma der Obskurität zur operativen Transparenz durch das Hybrid-Gericht BGN"**.
 
